@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0x200c" name="afii61664"/><!-- ZERO WIDTH NON-JOINER -->
+      <map code="0x200d" name="afii301"/><!-- ZERO WIDTH JOINER -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="112" language="0" nGroups="8">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0x200c" name="afii61664"/><!-- ZERO WIDTH NON-JOINER -->
+      <map code="0x200d" name="afii301"/><!-- ZERO WIDTH JOINER -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+      <map code="0x10b00" name="glyph00006"/><!-- AVESTAN LETTER A -->
+      <map code="0x10b01" name="glyph00007"/><!-- AVESTAN LETTER AA -->
+      <map code="0x10b02" name="glyph00008"/><!-- AVESTAN LETTER AO -->
+      <map code="0x10b03" name="glyph00009"/><!-- AVESTAN LETTER AAO -->
+      <map code="0x10b04" name="glyph00010"/><!-- AVESTAN LETTER AN -->
+      <map code="0x10b05" name="glyph00011"/><!-- AVESTAN LETTER AAN -->
+      <map code="0x10b06" name="glyph00012"/><!-- AVESTAN LETTER AE -->
+      <map code="0x10b07" name="glyph00013"/><!-- AVESTAN LETTER AEE -->
+      <map code="0x10b08" name="glyph00014"/><!-- AVESTAN LETTER E -->
+      <map code="0x10b09" name="glyph00015"/><!-- AVESTAN LETTER EE -->
+      <map code="0x10b0a" name="glyph00016"/><!-- AVESTAN LETTER O -->
+      <map code="0x10b0b" name="glyph00017"/><!-- AVESTAN LETTER OO -->
+      <map code="0x10b0c" name="glyph00018"/><!-- AVESTAN LETTER I -->
+      <map code="0x10b0d" name="glyph00019"/><!-- AVESTAN LETTER II -->
+      <map code="0x10b0e" name="glyph00020"/><!-- AVESTAN LETTER U -->
+      <map code="0x10b0f" name="glyph00021"/><!-- AVESTAN LETTER UU -->
+      <map code="0x10b10" name="glyph00022"/><!-- AVESTAN LETTER KE -->
+      <map code="0x10b11" name="glyph00023"/><!-- AVESTAN LETTER XE -->
+      <map code="0x10b12" name="glyph00024"/><!-- AVESTAN LETTER XYE -->
+      <map code="0x10b13" name="glyph00025"/><!-- AVESTAN LETTER XVE -->
+      <map code="0x10b14" name="glyph00026"/><!-- AVESTAN LETTER GE -->
+      <map code="0x10b15" name="glyph00027"/><!-- AVESTAN LETTER GGE -->
+      <map code="0x10b16" name="glyph00028"/><!-- AVESTAN LETTER GHE -->
+      <map code="0x10b17" name="glyph00029"/><!-- AVESTAN LETTER CE -->
+      <map code="0x10b18" name="glyph00030"/><!-- AVESTAN LETTER JE -->
+      <map code="0x10b19" name="glyph00031"/><!-- AVESTAN LETTER TE -->
+      <map code="0x10b1a" name="glyph00032"/><!-- AVESTAN LETTER THE -->
+      <map code="0x10b1b" name="glyph00033"/><!-- AVESTAN LETTER DE -->
+      <map code="0x10b1c" name="glyph00034"/><!-- AVESTAN LETTER DHE -->
+      <map code="0x10b1d" name="glyph00035"/><!-- AVESTAN LETTER TTE -->
+      <map code="0x10b1e" name="glyph00036"/><!-- AVESTAN LETTER PE -->
+      <map code="0x10b1f" name="glyph00037"/><!-- AVESTAN LETTER FE -->
+      <map code="0x10b20" name="glyph00038"/><!-- AVESTAN LETTER BE -->
+      <map code="0x10b21" name="glyph00039"/><!-- AVESTAN LETTER BHE -->
+      <map code="0x10b22" name="glyph00040"/><!-- AVESTAN LETTER NGE -->
+      <map code="0x10b23" name="glyph00041"/><!-- AVESTAN LETTER NGYE -->
+      <map code="0x10b24" name="glyph00042"/><!-- AVESTAN LETTER NGVE -->
+      <map code="0x10b25" name="glyph00043"/><!-- AVESTAN LETTER NE -->
+      <map code="0x10b26" name="glyph00044"/><!-- AVESTAN LETTER NYE -->
+      <map code="0x10b27" name="glyph00045"/><!-- AVESTAN LETTER NNE -->
+      <map code="0x10b28" name="glyph00046"/><!-- AVESTAN LETTER ME -->
+      <map code="0x10b29" name="glyph00047"/><!-- AVESTAN LETTER HME -->
+      <map code="0x10b2a" name="glyph00048"/><!-- AVESTAN LETTER YYE -->
+      <map code="0x10b2b" name="glyph00049"/><!-- AVESTAN LETTER YE -->
+      <map code="0x10b2c" name="glyph00050"/><!-- AVESTAN LETTER VE -->
+      <map code="0x10b2d" name="glyph00051"/><!-- AVESTAN LETTER RE -->
+      <map code="0x10b2e" name="glyph00052"/><!-- AVESTAN LETTER LE -->
+      <map code="0x10b2f" name="glyph00053"/><!-- AVESTAN LETTER SE -->
+      <map code="0x10b30" name="glyph00054"/><!-- AVESTAN LETTER ZE -->
+      <map code="0x10b31" name="glyph00055"/><!-- AVESTAN LETTER SHE -->
+      <map code="0x10b32" name="glyph00056"/><!-- AVESTAN LETTER ZHE -->
+      <map code="0x10b33" name="glyph00057"/><!-- AVESTAN LETTER SHYE -->
+      <map code="0x10b34" name="glyph00058"/><!-- AVESTAN LETTER SSHE -->
+      <map code="0x10b35" name="glyph00059"/><!-- AVESTAN LETTER HE -->
+      <map code="0x10b39" name="glyph00060"/><!-- AVESTAN ABBREVIATION MARK -->
+      <map code="0x10b3a" name="glyph00061"/><!-- TINY TWO DOTS OVER ONE DOT PUNCTUATION -->
+      <map code="0x10b3b" name="glyph00062"/><!-- SMALL TWO DOTS OVER ONE DOT PUNCTUATION -->
+      <map code="0x10b3c" name="glyph00063"/><!-- LARGE TWO DOTS OVER ONE DOT PUNCTUATION -->
+      <map code="0x10b3d" name="glyph00064"/><!-- LARGE ONE DOT OVER TWO DOTS PUNCTUATION -->
+      <map code="0x10b3e" name="glyph00065"/><!-- LARGE TWO RINGS OVER ONE RING PUNCTUATION -->
+      <map code="0x10b3f" name="glyph00066"/><!-- LARGE ONE RING OVER TWO RINGS PUNCTUATION -->
+    </cmap_format_12>
+  </cmap>
+
+</ttFont>

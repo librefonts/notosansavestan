@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GDEF>
+    <Version value="1.0"/>
+    <GlyphClassDef Format="2">
+      <ClassDef glyph=".notdef" class="1"/>
+      <ClassDef glyph="afii301" class="1"/>
+      <ClassDef glyph="afii61664" class="1"/>
+      <ClassDef glyph="glyph00006" class="1"/>
+      <ClassDef glyph="glyph00007" class="1"/>
+      <ClassDef glyph="glyph00008" class="1"/>
+      <ClassDef glyph="glyph00009" class="1"/>
+      <ClassDef glyph="glyph00010" class="1"/>
+      <ClassDef glyph="glyph00011" class="1"/>
+      <ClassDef glyph="glyph00012" class="1"/>
+      <ClassDef glyph="glyph00013" class="1"/>
+      <ClassDef glyph="glyph00014" class="1"/>
+      <ClassDef glyph="glyph00015" class="1"/>
+      <ClassDef glyph="glyph00016" class="1"/>
+      <ClassDef glyph="glyph00017" class="1"/>
+      <ClassDef glyph="glyph00018" class="1"/>
+      <ClassDef glyph="glyph00019" class="1"/>
+      <ClassDef glyph="glyph00020" class="1"/>
+      <ClassDef glyph="glyph00021" class="1"/>
+      <ClassDef glyph="glyph00022" class="1"/>
+      <ClassDef glyph="glyph00023" class="1"/>
+      <ClassDef glyph="glyph00024" class="1"/>
+      <ClassDef glyph="glyph00025" class="1"/>
+      <ClassDef glyph="glyph00026" class="1"/>
+      <ClassDef glyph="glyph00027" class="1"/>
+      <ClassDef glyph="glyph00028" class="1"/>
+      <ClassDef glyph="glyph00029" class="1"/>
+      <ClassDef glyph="glyph00030" class="1"/>
+      <ClassDef glyph="glyph00031" class="1"/>
+      <ClassDef glyph="glyph00032" class="1"/>
+      <ClassDef glyph="glyph00033" class="1"/>
+      <ClassDef glyph="glyph00034" class="1"/>
+      <ClassDef glyph="glyph00035" class="1"/>
+      <ClassDef glyph="glyph00036" class="1"/>
+      <ClassDef glyph="glyph00037" class="1"/>
+      <ClassDef glyph="glyph00038" class="1"/>
+      <ClassDef glyph="glyph00039" class="1"/>
+      <ClassDef glyph="glyph00040" class="1"/>
+      <ClassDef glyph="glyph00041" class="1"/>
+      <ClassDef glyph="glyph00042" class="1"/>
+      <ClassDef glyph="glyph00043" class="1"/>
+      <ClassDef glyph="glyph00044" class="1"/>
+      <ClassDef glyph="glyph00045" class="1"/>
+      <ClassDef glyph="glyph00046" class="1"/>
+      <ClassDef glyph="glyph00047" class="1"/>
+      <ClassDef glyph="glyph00048" class="1"/>
+      <ClassDef glyph="glyph00049" class="1"/>
+      <ClassDef glyph="glyph00050" class="1"/>
+      <ClassDef glyph="glyph00051" class="1"/>
+      <ClassDef glyph="glyph00052" class="1"/>
+      <ClassDef glyph="glyph00053" class="1"/>
+      <ClassDef glyph="glyph00054" class="1"/>
+      <ClassDef glyph="glyph00055" class="1"/>
+      <ClassDef glyph="glyph00056" class="1"/>
+      <ClassDef glyph="glyph00057" class="1"/>
+      <ClassDef glyph="glyph00058" class="1"/>
+      <ClassDef glyph="glyph00059" class="1"/>
+      <ClassDef glyph="glyph00060" class="1"/>
+      <ClassDef glyph="glyph00061" class="1"/>
+      <ClassDef glyph="glyph00062" class="1"/>
+      <ClassDef glyph="glyph00063" class="1"/>
+      <ClassDef glyph="glyph00064" class="1"/>
+      <ClassDef glyph="glyph00065" class="1"/>
+      <ClassDef glyph="glyph00066" class="1"/>
+      <ClassDef glyph="glyph00067" class="2"/>
+      <ClassDef glyph="glyph00068" class="2"/>
+      <ClassDef glyph="glyph00069" class="2"/>
+      <ClassDef glyph="glyph00070" class="2"/>
+      <ClassDef glyph="uni000D" class="1"/>
+      <ClassDef glyph="uni00A0" class="1"/>
+      <ClassDef glyph="uniFEFF" class="1"/>
+    </GlyphClassDef>
+    <LigCaretList>
+      <Coverage Format="1">
+      </Coverage>
+      <!-- LigGlyphCount=0 -->
+    </LigCaretList>
+  </GDEF>
+
+</ttFont>
